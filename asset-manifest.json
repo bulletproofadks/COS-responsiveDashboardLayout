@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//bulletproofadks.github.io/layout/static/css/main.88118110.chunk.css",
+    "main.js": "/http//bulletproofadks.github.io/layout/static/js/main.02e7cda1.chunk.js",
+    "main.js.map": "/http//bulletproofadks.github.io/layout/static/js/main.02e7cda1.chunk.js.map",
+    "runtime-main.js": "/http//bulletproofadks.github.io/layout/static/js/runtime-main.ad5509ac.js",
+    "runtime-main.js.map": "/http//bulletproofadks.github.io/layout/static/js/runtime-main.ad5509ac.js.map",
+    "static/js/2.54cc66b5.chunk.js": "/http//bulletproofadks.github.io/layout/static/js/2.54cc66b5.chunk.js",
+    "static/js/2.54cc66b5.chunk.js.map": "/http//bulletproofadks.github.io/layout/static/js/2.54cc66b5.chunk.js.map",
+    "index.html": "/http//bulletproofadks.github.io/layout/index.html",
+    "precache-manifest.b384fd659313f089b4c4bc4e081bc0da.js": "/http//bulletproofadks.github.io/layout/precache-manifest.b384fd659313f089b4c4bc4e081bc0da.js",
+    "service-worker.js": "/http//bulletproofadks.github.io/layout/service-worker.js",
+    "static/css/main.88118110.chunk.css.map": "/http//bulletproofadks.github.io/layout/static/css/main.88118110.chunk.css.map",
+    "static/js/2.54cc66b5.chunk.js.LICENSE.txt": "/http//bulletproofadks.github.io/layout/static/js/2.54cc66b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad5509ac.js",
+    "static/js/2.54cc66b5.chunk.js",
+    "static/css/main.88118110.chunk.css",
+    "static/js/main.02e7cda1.chunk.js"
+  ]
+}
